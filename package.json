@@ -1,0 +1,23 @@
+{
+  "name": "karel.steigerwald.cz",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Karel Steigerwald",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steida/karel.steigerwald.cz.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steida/karel.steigerwald.cz/issues"
+  },
+  "homepage": "https://github.com/steida/karel.steigerwald.cz#readme",
+  "dependencies": {
+    "medium-sdk": "0.0.3"
+  }
+}
